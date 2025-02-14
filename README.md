@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abdelrahman Ahmed</h1>
 
 ## 💫 About Me:
-I am a second-year computer engineering student at PoliTO University, passionate about exploring the realms of coding, software engineering, machine learning, and building robust applications.
+I am a computer engineering student at PoliTO University, passionate about exploring the realms of coding, software engineering, machine learning, and building robust applications.
 
 ## 💻 Tech Stack:
 
@@ -19,7 +19,6 @@ I am a second-year computer engineering student at PoliTO University, passionate
 ### 📚 Frameworks & Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
@@ -31,5 +30,4 @@ I am a second-year computer engineering student at PoliTO University, passionate
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="45" height="45" alt="Docker"/>
 </p>
